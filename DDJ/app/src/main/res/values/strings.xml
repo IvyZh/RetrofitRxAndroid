@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DDJ</string>
+
+    <string name="tab1_name">首页</string>
+    <string name="tab2_name">投资</string>
+    <string name="tab3_name">借款</string>
+    <string name="tab4_name">发现</string>
+    <string name="tab5_name">我的</string>
+</resources>
